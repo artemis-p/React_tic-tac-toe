@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/env", "@babel/preset-react"]
+}
+//a preset is a set of plugins used to support particular language features
+//react: Adds support for JSX
